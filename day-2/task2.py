@@ -1,0 +1,10 @@
+a=54
+b=43.3
+c="safura"
+d=True
+e="true"
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
