@@ -1,0 +1,45 @@
+Q1.Which keyword is used to define a fumction in python?
+    ans=>C.def
+Q2.what is the output?
+   ans=>15
+Q3. Which of the following is a valid Python list?
+   ans=> b.[10,20,30]
+Q4. What does input() do in Python?
+   ans=>b. Takes input from the user
+Q5. What will be the output?
+   ans=>b.Hello
+Q6. What is the first index of a Python list? 
+   ans=>a.0
+ Q7. What will this code print?
+  ans=>b.0
+         1
+         2
+ Q8. Which operator is used to calculate the remainder?
+    ans=>c.%
+Q9. What will be the output?
+  ans=>B. 6
+Q10. Which data type is used to store True or False?
+  ans=> C. bool
+  
+ Q11. What will be the output?
+   ans=> D. 40
+   Q12. What will this code print?
+    ans=> A. 6         
+    Q13. What will be the output?
+    ans=>C. 15
+    Q14. What is printed by the following code?
+    ans=>B.[10,30,40]
+    Q15. What will happen when this code runs?
+    ans=.D. Raises IndexError
+    Q16. What will be the output?
+    ans=>c.20
+           10
+    Q17. What will this code print?
+    ans=>c.[2, 6, 10]       
+    Q18. What is the output?
+     ans=>B. 15 30
+     Q19. What will be printed?
+     ans=>b.[2, 4, 6]
+    Q20. What is the output of the following code?
+      ans=>c.10
+15
